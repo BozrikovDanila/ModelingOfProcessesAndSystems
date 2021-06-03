@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-03T19:19:38.622Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="v7s-oceFwZjPcT4UinCv" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-03T20:07:28.363Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="p2Bj2O4Whrl1K9WRiNPy" version="14.7.3" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="3122" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2681" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -124,122 +124,235 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oh1h2UWWCm7a5rBzaaiq-19" value="" style="shape=umlFrame;whiteSpace=wrap;html=1;width=10;height=15;" vertex="1" parent="1">
+        <mxCell id="oh1h2UWWCm7a5rBzaaiq-19" value="" style="shape=umlFrame;whiteSpace=wrap;html=1;width=10;height=15;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-1200" y="580" width="270" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="oh1h2UWWCm7a5rBzaaiq-20" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Арендовать вещь&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="oh1h2UWWCm7a5rBzaaiq-20" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Создать объявление товара&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-1200" y="580" width="270" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="oh1h2UWWCm7a5rBzaaiq-21" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Объявление&lt;/font&gt;" style="endArrow=classic;html=1;" edge="1" parent="1">
-          <mxGeometry y="-50" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1105" y="430" as="sourcePoint" />
-            <mxPoint x="-1105" y="510" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="oh1h2UWWCm7a5rBzaaiq-22" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-975" y="430" as="sourcePoint" />
-            <mxPoint x="-975" y="510" as="targetPoint" />
+            <mxPoint x="-1059.5" y="370" as="sourcePoint" />
+            <mxPoint x="-1060" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oh1h2UWWCm7a5rBzaaiq-23" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Сайт проката&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oh1h2UWWCm7a5rBzaaiq-22">
+        <mxCell id="oh1h2UWWCm7a5rBzaaiq-23" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Сайт проката&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="oh1h2UWWCm7a5rBzaaiq-22">
           <mxGeometry x="-0.35" y="-1" relative="1" as="geometry">
-            <mxPoint x="51" y="14" as="offset" />
+            <mxPoint x="-69" y="101" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oh1h2UWWCm7a5rBzaaiq-24" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Арендодатель&lt;/font&gt;" style="endArrow=classic;html=1;" edge="1" parent="1">
-          <mxGeometry y="50" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1165" y="790" as="sourcePoint" />
-            <mxPoint x="-1165" y="710" as="targetPoint" />
+        <mxCell id="oh1h2UWWCm7a5rBzaaiq-24" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Арендодатель&lt;/font&gt;" style="endArrow=classic;html=1;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry x="0.7049" y="80" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1120" y="1320" as="sourcePoint" />
+            <mxPoint x="-1120" y="710" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-1165" y="750" />
+              <mxPoint x="-1120" y="750" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oh1h2UWWCm7a5rBzaaiq-25" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Арендатор&lt;/font&gt;" style="endArrow=classic;html=1;" edge="1" parent="1">
-          <mxGeometry y="-40" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1015" y="790" as="sourcePoint" />
-            <mxPoint x="-1015" y="710" as="targetPoint" />
+        <mxCell id="oh1h2UWWCm7a5rBzaaiq-26" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Оператор&lt;/font&gt;" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry x="0.8391" y="-70" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1010" y="1580" as="sourcePoint" />
+            <mxPoint x="-1010" y="710" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-1015" y="770" />
-              <mxPoint x="-1015" y="750" />
-              <mxPoint x="-1015" y="730" />
+              <mxPoint x="-1010" y="770" />
+              <mxPoint x="-1010" y="730" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oh1h2UWWCm7a5rBzaaiq-26" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Оператор&lt;/font&gt;" style="endArrow=classic;html=1;" edge="1" parent="1">
-          <mxGeometry y="-40" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-920.5" y="790" as="sourcePoint" />
-            <mxPoint x="-920.5" y="710" as="targetPoint" />
+        <mxCell id="oh1h2UWWCm7a5rBzaaiq-29" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;А-1&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-970" y="690" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oh1h2UWWCm7a5rBzaaiq-30" value="&lt;font style=&quot;font-size: 19px&quot;&gt;Товар&lt;/font&gt;" style="endArrow=classic;html=1;fontSize=16;" edge="1" parent="1">
+          <mxGeometry x="0.0476" y="20" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1410" y="630" as="sourcePoint" />
+            <mxPoint x="-1200" y="630" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-920.5" y="770" />
-              <mxPoint x="-920.5" y="730" />
+              <mxPoint x="-1300" y="630" />
+              <mxPoint x="-1250" y="630" />
+              <mxPoint x="-1230" y="630" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oh1h2UWWCm7a5rBzaaiq-27" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="oh1h2UWWCm7a5rBzaaiq-37" value="" style="endArrow=classicThin;endFill=1;endSize=12;html=1;exitX=1;exitY=0.462;exitDx=0;exitDy=0;exitPerimeter=0;jumpSize=5;fontSize=16;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oh1h2UWWCm7a5rBzaaiq-20" target="oh1h2UWWCm7a5rBzaaiq-42">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-880" y="640" as="sourcePoint" />
+            <mxPoint x="-760" y="720" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-870" y="640" />
+              <mxPoint x="-830" y="640" />
+              <mxPoint x="-830" y="650" />
+              <mxPoint x="-830" y="680" />
+              <mxPoint x="-830" y="715" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oh1h2UWWCm7a5rBzaaiq-38" value="&lt;font style=&quot;font-size: 19px&quot;&gt;Объявление&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="oh1h2UWWCm7a5rBzaaiq-37">
+          <mxGeometry x="-0.64" y="1" relative="1" as="geometry">
+            <mxPoint x="21" y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oh1h2UWWCm7a5rBzaaiq-41" value="" style="shape=umlFrame;whiteSpace=wrap;html=1;width=10;height=15;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-790" y="650" width="270" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="oh1h2UWWCm7a5rBzaaiq-42" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Заказать товар&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-790" y="650" width="270" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="oh1h2UWWCm7a5rBzaaiq-43" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-900" y="609.5" as="sourcePoint" />
-            <mxPoint x="-745" y="610" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oh1h2UWWCm7a5rBzaaiq-28" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Арендованная вещь&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oh1h2UWWCm7a5rBzaaiq-27">
-          <mxGeometry x="0.3629" y="1" relative="1" as="geometry">
-            <mxPoint x="-17" y="-19" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oh1h2UWWCm7a5rBzaaiq-29" value="&lt;font style=&quot;font-size: 13px&quot;&gt;А-0&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-940" y="690" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="oh1h2UWWCm7a5rBzaaiq-30" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Товар&lt;/font&gt;" style="endArrow=classic;html=1;" edge="1" parent="1">
-          <mxGeometry x="0.0001" y="21" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1330" y="560.5" as="sourcePoint" />
-            <mxPoint x="-1200" y="560" as="targetPoint" />
+            <mxPoint x="-1060" y="380" as="sourcePoint" />
+            <mxPoint x="-625.5" y="650" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-1300" y="560" />
-              <mxPoint x="-1250" y="560" />
-              <mxPoint x="-1230" y="560" />
+              <mxPoint x="-1060" y="510" />
+              <mxPoint x="-625" y="510" />
             </Array>
-            <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oh1h2UWWCm7a5rBzaaiq-31" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Курьер&lt;/font&gt;" style="endArrow=classic;html=1;" edge="1" parent="1">
-          <mxGeometry y="-30" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1105" y="790" as="sourcePoint" />
-            <mxPoint x="-1105" y="710" as="targetPoint" />
+        <mxCell id="oh1h2UWWCm7a5rBzaaiq-45" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Арендатор&lt;/font&gt;" style="endArrow=classic;html=1;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry x="0.8906" y="60" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-670" y="1511" as="sourcePoint" />
+            <mxPoint x="-670" y="780" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-1105" y="770" />
-              <mxPoint x="-1105" y="750" />
-              <mxPoint x="-1105" y="730" />
+              <mxPoint x="-670" y="820" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oh1h2UWWCm7a5rBzaaiq-32" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Срок аренды&lt;/font&gt;" style="endArrow=classic;html=1;" edge="1" parent="1">
-          <mxGeometry x="0.0001" y="21" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1330" y="610" as="sourcePoint" />
-            <mxPoint x="-1200" y="609.5" as="targetPoint" />
+        <mxCell id="oh1h2UWWCm7a5rBzaaiq-47" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;А-2&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="760" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oh1h2UWWCm7a5rBzaaiq-49" value="" style="endArrow=classicThin;endFill=1;endSize=12;html=1;exitX=1;exitY=0.462;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=16;" edge="1" parent="1" source="oh1h2UWWCm7a5rBzaaiq-42">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-440" y="710" as="sourcePoint" />
+            <mxPoint x="-320" y="790" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-1300" y="609.5" />
-              <mxPoint x="-1250" y="609.5" />
-              <mxPoint x="-1230" y="609.5" />
+              <mxPoint x="-430" y="710" />
+              <mxPoint x="-390" y="710" />
+              <mxPoint x="-390" y="720" />
+              <mxPoint x="-390" y="750" />
+              <mxPoint x="-390" y="790" />
             </Array>
-            <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oh1h2UWWCm7a5rBzaaiq-33" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Данные арендатора&lt;/font&gt;" style="endArrow=classic;html=1;" edge="1" parent="1">
-          <mxGeometry x="-0.1538" y="20" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1330" y="660.5" as="sourcePoint" />
-            <mxPoint x="-1200" y="660" as="targetPoint" />
+        <mxCell id="oh1h2UWWCm7a5rBzaaiq-50" value="&lt;font style=&quot;font-size: 19px&quot;&gt;Заказ&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="oh1h2UWWCm7a5rBzaaiq-49">
+          <mxGeometry x="-0.64" y="1" relative="1" as="geometry">
+            <mxPoint x="-10" y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oh1h2UWWCm7a5rBzaaiq-61" value="" style="endArrow=classic;html=1;fontSize=16;" edge="1" parent="1">
+          <mxGeometry x="0.8182" y="-40" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1010" y="1180" as="sourcePoint" />
+            <mxPoint x="-561" y="780" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-1300" y="660" />
-              <mxPoint x="-1250" y="660" />
-              <mxPoint x="-1230" y="660" />
+              <mxPoint x="-1010" y="920" />
+              <mxPoint x="-980" y="920" />
+              <mxPoint x="-561" y="920" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oh1h2UWWCm7a5rBzaaiq-62" value="" style="shape=umlFrame;whiteSpace=wrap;html=1;width=10;height=15;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="720" width="310" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="oh1h2UWWCm7a5rBzaaiq-63" value="&lt;font style=&quot;font-size: 21px&quot;&gt;Доставить заказ&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-319" y="725" width="310" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="oh1h2UWWCm7a5rBzaaiq-64" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Курьер&lt;/font&gt;" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry x="0.75" y="-40" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-80" y="1430" as="sourcePoint" />
+            <mxPoint x="-80" y="860" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-80" y="900" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oh1h2UWWCm7a5rBzaaiq-65" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;А-3&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="840" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oh1h2UWWCm7a5rBzaaiq-66" value="" style="endArrow=classic;html=1;entryX=0.255;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="oh1h2UWWCm7a5rBzaaiq-62">
+          <mxGeometry x="0.6522" y="50" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1120" y="1600" as="sourcePoint" />
+            <mxPoint x="-1120" y="990" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1120" y="1100" />
+              <mxPoint x="-241" y="1100" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oh1h2UWWCm7a5rBzaaiq-67" value="" style="endArrow=classic;html=1;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry x="0.8906" y="50" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-670" y="1871" as="sourcePoint" />
+            <mxPoint x="-161" y="860" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-670" y="1180" />
+              <mxPoint x="-161" y="1180" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oh1h2UWWCm7a5rBzaaiq-69" value="" style="endArrow=classicThin;endFill=1;endSize=12;html=1;fontSize=16;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-8" y="800" as="sourcePoint" />
+            <mxPoint x="230" y="920" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="100" y="800" />
+              <mxPoint x="140" y="800" />
+              <mxPoint x="140" y="810" />
+              <mxPoint x="140" y="840" />
+              <mxPoint x="140" y="920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oh1h2UWWCm7a5rBzaaiq-70" value="&lt;font style=&quot;font-size: 19px&quot;&gt;Доставленный заказ&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="oh1h2UWWCm7a5rBzaaiq-69">
+          <mxGeometry x="-0.64" y="1" relative="1" as="geometry">
+            <mxPoint x="34" y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oh1h2UWWCm7a5rBzaaiq-71" value="" style="shape=umlFrame;whiteSpace=wrap;html=1;width=10;height=15;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="230" y="850" width="310" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="oh1h2UWWCm7a5rBzaaiq-72" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Получить заказ&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="231" y="855" width="310" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="oh1h2UWWCm7a5rBzaaiq-73" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;А-4&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="500" y="970" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oh1h2UWWCm7a5rBzaaiq-74" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry x="0.75" y="-40" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-80" y="1660" as="sourcePoint" />
+            <mxPoint x="279" y="990" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-80" y="1100" />
+              <mxPoint x="280" y="1100" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oh1h2UWWCm7a5rBzaaiq-75" value="" style="endArrow=classic;html=1;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry x="0.8906" y="50" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-670" y="2111" as="sourcePoint" />
+            <mxPoint x="357" y="990" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-670" y="1420" />
+              <mxPoint x="357" y="1420" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oh1h2UWWCm7a5rBzaaiq-77" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Арендованная&lt;br&gt;вещь&lt;/font&gt;" style="endArrow=classic;html=1;strokeWidth=1;fontSize=16;" edge="1" parent="1">
+          <mxGeometry x="-0.0589" y="30" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="930" as="sourcePoint" />
+            <mxPoint x="710" y="930.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="571" y="930" />
+              <mxPoint x="631" y="930" />
+              <mxPoint x="681" y="930" />
+              <mxPoint x="701" y="930" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
