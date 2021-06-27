@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-27T16:01:25.203Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="WVmJVWYydfH_PFf1oqv9" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-27T16:04:42.811Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="fWZUizr5JCEv91-D8E9O" version="14.8.0" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -59,7 +59,7 @@
           <mxGeometry x="450" y="80" width="100" height="780" as="geometry" />
         </mxCell>
         <mxCell id="FkLrA_r1JUW925ZRQbTF-11" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="FkLrA_r1JUW925ZRQbTF-10" vertex="1">
-          <mxGeometry x="45" y="80" width="10" height="410" as="geometry" />
+          <mxGeometry x="45" y="70" width="10" height="420" as="geometry" />
         </mxCell>
         <mxCell id="FkLrA_r1JUW925ZRQbTF-12" value="Загрузить объявление()" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" parent="1" source="3nuBFxr9cyL0pnOWT2aG-2" target="FkLrA_r1JUW925ZRQbTF-11" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -70,7 +70,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FkLrA_r1JUW925ZRQbTF-13" value="Зайти на сайт()" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" parent="1" target="FkLrA_r1JUW925ZRQbTF-11" edge="1">
+        <mxCell id="FkLrA_r1JUW925ZRQbTF-13" value="Зайти на сайт()" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;endFill=1;entryX=0.49;entryY=0.104;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="FkLrA_r1JUW925ZRQbTF-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="753" y="160" as="sourcePoint" />
             <mxPoint x="510" y="169.58" as="targetPoint" />
@@ -80,7 +80,7 @@
         <mxCell id="FkLrA_r1JUW925ZRQbTF-14" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="345" y="220" width="10" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="FkLrA_r1JUW925ZRQbTF-15" value="Выбрать товар()" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" parent="1" source="FkLrA_r1JUW925ZRQbTF-2" edge="1">
+        <mxCell id="FkLrA_r1JUW925ZRQbTF-15" value="Положить в корзину()" style="verticalAlign=bottom;endArrow=openThin;shadow=0;strokeWidth=1;endFill=0;" parent="1" source="FkLrA_r1JUW925ZRQbTF-2" edge="1">
           <mxGeometry x="-0.3318" relative="1" as="geometry">
             <mxPoint x="695.4100000000002" y="220" as="sourcePoint" />
             <mxPoint x="350" y="220" as="targetPoint" />
@@ -107,7 +107,7 @@
             <mxPoint x="610" y="400" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FkLrA_r1JUW925ZRQbTF-19" value="Обработать заказ()" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" parent="1" edge="1">
+        <mxCell id="FkLrA_r1JUW925ZRQbTF-19" value="Обработать заказ()" style="verticalAlign=bottom;endArrow=openThin;shadow=0;strokeWidth=1;endFill=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="905" y="450" as="sourcePoint" />
             <mxPoint x="600" y="450" as="targetPoint" />
@@ -163,7 +163,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FkLrA_r1JUW925ZRQbTF-33" value="[Вернуть товар()" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=-0.4;exitY=0.867;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="FkLrA_r1JUW925ZRQbTF-30" target="FkLrA_r1JUW925ZRQbTF-25" edge="1">
+        <mxCell id="FkLrA_r1JUW925ZRQbTF-33" value="Вернуть товар()" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=-0.4;exitY=0.867;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="FkLrA_r1JUW925ZRQbTF-30" target="FkLrA_r1JUW925ZRQbTF-25" edge="1">
           <mxGeometry x="-0.0149" y="-2" relative="1" as="geometry">
             <mxPoint x="1115" y="850" as="sourcePoint" />
             <mxPoint x="177" y="850" as="targetPoint" />
@@ -189,11 +189,13 @@
         <mxCell id="HDKb4VqexMqRSyN7pOfg-1" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="495" y="685" width="10" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="HDKb4VqexMqRSyN7pOfg-2" value="Продлить аренду()" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=0.1;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FkLrA_r1JUW925ZRQbTF-26">
+        <mxCell id="HDKb4VqexMqRSyN7pOfg-2" value="Продлить аренду()" style="verticalAlign=bottom;endArrow=openThin;shadow=0;strokeWidth=1;exitX=0.1;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;endFill=0;" edge="1" parent="1" source="FkLrA_r1JUW925ZRQbTF-26">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="750" y="706" as="sourcePoint" />
             <mxPoint x="505" y="705" as="targetPoint" />
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="670" y="705" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
