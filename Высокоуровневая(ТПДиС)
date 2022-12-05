@@ -1,1 +1,282 @@
-<mxfile host="app.diagrams.net" modified="2022-12-05T16:15:10.757Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.5.3" etag="Gm5lBOv-hEVr0GZIPmr_" type="github"><diagram id="xAy564VugNOZgOePCqa_">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-05T17:24:55.178Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Hw_eEONdjjrJOj0Ptjvj" version="20.5.3" type="github">
+  <diagram id="xAy564VugNOZgOePCqa_" name="Страница 1">
+    <mxGraphModel dx="2130" dy="2346" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Vt4X5cOmZt_9aXlJBOT--6" value="" style="endArrow=classic;html=1;rounded=0;fontSize=19;exitX=0.5;exitY=0;exitDx=0;exitDy=0;elbow=vertical;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vt4X5cOmZt_9aXlJBOT--1" target="Vt4X5cOmZt_9aXlJBOT--4">
+          <mxGeometry x="0.1274" y="-5" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="290" as="sourcePoint" />
+            <mxPoint x="680" y="-20" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="470" y="120" />
+              <mxPoint x="500" y="80" />
+              <mxPoint x="610" y="10" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vt4X5cOmZt_9aXlJBOT--1" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Информационная система ВУЗа&lt;/font&gt;&lt;br style=&quot;font-size: 19px;&quot;&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="280" y="150" width="300" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="Vt4X5cOmZt_9aXlJBOT--2" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;Система учёта успеваемости&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="-240" width="270" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Vt4X5cOmZt_9aXlJBOT--3" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;Система учёта научной деятельности ВУЗа&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="470" width="270" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Vt4X5cOmZt_9aXlJBOT--4" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;Система учёта&lt;br&gt;студенческого состава&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="700" y="-50" width="270" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Vt4X5cOmZt_9aXlJBOT--5" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Система управления учебным процессом&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="420" width="270" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Vt4X5cOmZt_9aXlJBOT--9" value="" style="endArrow=classic;html=1;rounded=0;fontSize=19;entryX=0.977;entryY=0.36;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;elbow=vertical;entryPerimeter=0;" edge="1" parent="1" source="Vt4X5cOmZt_9aXlJBOT--4" target="Vt4X5cOmZt_9aXlJBOT--1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="290" as="sourcePoint" />
+            <mxPoint x="850" y="50" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="810" y="150" />
+              <mxPoint x="710" y="210" />
+              <mxPoint x="680" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vt4X5cOmZt_9aXlJBOT--11" value="список студентов подходящих &lt;br style=&quot;font-size: 18px;&quot;&gt;критериям" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;rotation=-30;" vertex="1" connectable="0" parent="Vt4X5cOmZt_9aXlJBOT--9">
+          <mxGeometry x="0.1496" relative="1" as="geometry">
+            <mxPoint x="24" y="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vt4X5cOmZt_9aXlJBOT--12" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Система учёта кадров&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="310" y="750" width="270" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Vt4X5cOmZt_9aXlJBOT--14" value="&lt;span style=&quot;background-color: rgb(248, 249, 250); font-size: 20px;&quot;&gt;запросить информацию &lt;br style=&quot;font-size: 20px;&quot;&gt;о студентах&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;rotation=-40;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="549.9965173647116" y="49.997283592939795" as="geometry">
+            <mxPoint x="4.7460269346706525" y="-2.5446469962218115" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vt4X5cOmZt_9aXlJBOT--15" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Vt4X5cOmZt_9aXlJBOT--1" target="Vt4X5cOmZt_9aXlJBOT--12">
+          <mxGeometry x="0.2759" y="63" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="440" as="sourcePoint" />
+            <mxPoint x="520" y="570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="610" />
+              <mxPoint x="460" y="660" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vt4X5cOmZt_9aXlJBOT--52" value="запросить список&lt;br style=&quot;font-size: 19px;&quot;&gt;&amp;nbsp;преподавателей" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=19;rotation=90;" vertex="1" connectable="0" parent="Vt4X5cOmZt_9aXlJBOT--15">
+          <mxGeometry x="0.2104" y="-2" relative="1" as="geometry">
+            <mxPoint x="-4" y="-31" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vt4X5cOmZt_9aXlJBOT--17" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;elbow=vertical;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.363;entryY=0.99;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Vt4X5cOmZt_9aXlJBOT--12" target="Vt4X5cOmZt_9aXlJBOT--1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="660" as="sourcePoint" />
+            <mxPoint x="490" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="347" y="750" />
+              <mxPoint x="340" y="670" />
+              <mxPoint x="360" y="590" />
+              <mxPoint x="350" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vt4X5cOmZt_9aXlJBOT--55" value="список преподавателей&lt;br style=&quot;font-size: 18px;&quot;&gt;подходящих критериям" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;rotation=-90;" vertex="1" connectable="0" parent="Vt4X5cOmZt_9aXlJBOT--17">
+          <mxGeometry x="-0.6629" y="1" relative="1" as="geometry">
+            <mxPoint x="6" y="-132" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vt4X5cOmZt_9aXlJBOT--23" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;elbow=vertical;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vt4X5cOmZt_9aXlJBOT--3" target="Vt4X5cOmZt_9aXlJBOT--1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="120" as="sourcePoint" />
+            <mxPoint x="250" y="70" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="100" y="390" />
+              <mxPoint x="160" y="380" />
+              <mxPoint x="230" y="370" />
+              <mxPoint x="280" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vt4X5cOmZt_9aXlJBOT--24" value="список кандидатских и докторских работ&lt;br style=&quot;font-size: 17px;&quot;&gt;указанного факультета или&amp;nbsp;кафедры" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;rotation=-15;" vertex="1" connectable="0" parent="Vt4X5cOmZt_9aXlJBOT--23">
+          <mxGeometry x="-0.0628" y="-3" relative="1" as="geometry">
+            <mxPoint x="-11" y="14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vt4X5cOmZt_9aXlJBOT--25" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.599;entryY=-0.029;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Vt4X5cOmZt_9aXlJBOT--1" target="Vt4X5cOmZt_9aXlJBOT--5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="830" y="510" as="sourcePoint" />
+            <mxPoint x="880" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="780" y="290" />
+              <mxPoint x="950" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vt4X5cOmZt_9aXlJBOT--26" value="запросить список кафедр, проводящих занятия&lt;br style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp;(курс/группа/период/факультет)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;rotation=0;" vertex="1" connectable="0" parent="Vt4X5cOmZt_9aXlJBOT--25">
+          <mxGeometry x="-0.0627" y="3" relative="1" as="geometry">
+            <mxPoint x="16" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vt4X5cOmZt_9aXlJBOT--29" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;elbow=vertical;exitX=0.988;exitY=0.653;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vt4X5cOmZt_9aXlJBOT--1" target="Vt4X5cOmZt_9aXlJBOT--5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="500" as="sourcePoint" />
+            <mxPoint x="750" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="350" />
+              <mxPoint x="650" y="360" />
+              <mxPoint x="760" y="370" />
+              <mxPoint x="790" y="370" />
+              <mxPoint x="820" y="380" />
+              <mxPoint x="880" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vt4X5cOmZt_9aXlJBOT--30" value="запросить список преподавателей, проводящих занятия&lt;br style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp;(курс/группа/период/факультет)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;rotation=0;" vertex="1" connectable="0" parent="Vt4X5cOmZt_9aXlJBOT--29">
+          <mxGeometry x="0.1314" y="-1" relative="1" as="geometry">
+            <mxPoint x="-8" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vt4X5cOmZt_9aXlJBOT--38" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;elbow=vertical;exitX=0.918;exitY=0.806;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Vt4X5cOmZt_9aXlJBOT--1" target="Vt4X5cOmZt_9aXlJBOT--5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="660" as="sourcePoint" />
+            <mxPoint x="680" y="610" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="720" y="470" />
+              <mxPoint x="770" y="490" />
+              <mxPoint x="860" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vt4X5cOmZt_9aXlJBOT--39" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;запросить список преподавателей по виду занятий&lt;/span&gt;&lt;br style=&quot;background-color: rgb(248, 249, 250); font-size: 18px;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp;(курс/группа/период/факультет)&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;rotation=15;" vertex="1" connectable="0" parent="Vt4X5cOmZt_9aXlJBOT--38">
+          <mxGeometry x="0.0157" y="2" relative="1" as="geometry">
+            <mxPoint x="3" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vt4X5cOmZt_9aXlJBOT--41" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;elbow=vertical;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.82;entryY=0.9;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Vt4X5cOmZt_9aXlJBOT--5" target="Vt4X5cOmZt_9aXlJBOT--1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1073.35" y="752.34" as="sourcePoint" />
+            <mxPoint x="489.99985097451696" y="569.9979635715484" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="940" y="570" />
+              <mxPoint x="700" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vt4X5cOmZt_9aXlJBOT--42" value="список кафедр удовл критериям" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=21;rotation=10;" vertex="1" connectable="0" parent="Vt4X5cOmZt_9aXlJBOT--41">
+          <mxGeometry x="-0.0589" y="-1" relative="1" as="geometry">
+            <mxPoint x="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vt4X5cOmZt_9aXlJBOT--44" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.22;entryY=0.933;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Vt4X5cOmZt_9aXlJBOT--3" target="Vt4X5cOmZt_9aXlJBOT--1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230.9000000000001" y="610.9000000000001" as="sourcePoint" />
+            <mxPoint x="-70" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="490" />
+              <mxPoint x="290" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vt4X5cOmZt_9aXlJBOT--45" value="запросить список кандидатских и &lt;br style=&quot;font-size: 18px;&quot;&gt;докторских диссертаций" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;rotation=-15;" vertex="1" connectable="0" parent="Vt4X5cOmZt_9aXlJBOT--44">
+          <mxGeometry x="-0.0951" y="-5" relative="1" as="geometry">
+            <mxPoint x="29" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vt4X5cOmZt_9aXlJBOT--46" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;elbow=vertical;exitX=0.37;exitY=0.013;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vt4X5cOmZt_9aXlJBOT--1" target="Vt4X5cOmZt_9aXlJBOT--2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="160" as="sourcePoint" />
+            <mxPoint x="190" y="110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="70" />
+              <mxPoint x="330" />
+              <mxPoint x="280" y="-80" />
+              <mxPoint x="240" y="-120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vt4X5cOmZt_9aXlJBOT--49" value="Запросить список студентов сдавших зачет/экзамен &lt;br style=&quot;font-size: 18px;&quot;&gt;по указанным результатам" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;rotation=52;" vertex="1" connectable="0" parent="Vt4X5cOmZt_9aXlJBOT--46">
+          <mxGeometry x="-0.3573" y="2" relative="1" as="geometry">
+            <mxPoint x="-56" y="-61" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vt4X5cOmZt_9aXlJBOT--47" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;elbow=vertical;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.27;entryY=0.057;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Vt4X5cOmZt_9aXlJBOT--2" target="Vt4X5cOmZt_9aXlJBOT--1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="-20" as="sourcePoint" />
+            <mxPoint x="200" y="-70" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="290" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vt4X5cOmZt_9aXlJBOT--48" value="Список студентов сдавших зачет/экзамен&lt;br style=&quot;font-size: 18px;&quot;&gt;удовл кртериям" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;rotation=45;" vertex="1" connectable="0" parent="Vt4X5cOmZt_9aXlJBOT--47">
+          <mxGeometry x="0.0744" y="-3" relative="1" as="geometry">
+            <mxPoint y="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vt4X5cOmZt_9aXlJBOT--56" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;elbow=vertical;exitX=0.055;exitY=0.288;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vt4X5cOmZt_9aXlJBOT--1" target="Vt4X5cOmZt_9aXlJBOT--2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="160" as="sourcePoint" />
+            <mxPoint x="70" y="110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="30" y="120" />
+              <mxPoint x="-40" y="-50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vt4X5cOmZt_9aXlJBOT--58" value="Запросить информацию о дипломных работах&lt;br style=&quot;font-size: 19px;&quot;&gt;студентов по критериям" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=19;rotation=45;" vertex="1" connectable="0" parent="Vt4X5cOmZt_9aXlJBOT--56">
+          <mxGeometry x="-0.3385" y="1" relative="1" as="geometry">
+            <mxPoint x="-70" y="-45" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vt4X5cOmZt_9aXlJBOT--57" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;elbow=vertical;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vt4X5cOmZt_9aXlJBOT--2" target="Vt4X5cOmZt_9aXlJBOT--1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="80" as="sourcePoint" />
+            <mxPoint x="150" y="30" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="50" />
+              <mxPoint x="190" y="90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vt4X5cOmZt_9aXlJBOT--59" value="Информация о дипломных работах студентов&lt;br style=&quot;font-size: 18px;&quot;&gt;кафедра, тема, преподаватель" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;rotation=45;" vertex="1" connectable="0" parent="Vt4X5cOmZt_9aXlJBOT--57">
+          <mxGeometry x="0.4546" y="5" relative="1" as="geometry">
+            <mxPoint x="-71" y="-65" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vt4X5cOmZt_9aXlJBOT--61" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;elbow=vertical;exitX=0.698;exitY=0.963;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.299;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Vt4X5cOmZt_9aXlJBOT--1" target="Vt4X5cOmZt_9aXlJBOT--5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="520" as="sourcePoint" />
+            <mxPoint x="860" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="740" y="630" />
+              <mxPoint x="940" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vt4X5cOmZt_9aXlJBOT--63" value="Запросить нагрузку преподавателей&lt;br style=&quot;font-size: 18px;&quot;&gt;по критериям" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="Vt4X5cOmZt_9aXlJBOT--61">
+          <mxGeometry x="0.2467" y="-2" relative="1" as="geometry">
+            <mxPoint x="-24" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vt4X5cOmZt_9aXlJBOT--62" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;elbow=vertical;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.624;entryY=0.994;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Vt4X5cOmZt_9aXlJBOT--5" target="Vt4X5cOmZt_9aXlJBOT--1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1030" y="770" as="sourcePoint" />
+            <mxPoint x="1080" y="720" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="930" y="700" />
+              <mxPoint x="650" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vt4X5cOmZt_9aXlJBOT--64" value="Информация о нагрузке преподавателей&lt;br style=&quot;font-size: 18px;&quot;&gt;удовл критериям" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="Vt4X5cOmZt_9aXlJBOT--62">
+          <mxGeometry x="-0.1368" y="-3" relative="1" as="geometry">
+            <mxPoint x="-18" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
